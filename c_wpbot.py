@@ -12,7 +12,7 @@ Original file is located at
 import openai
 
 # Set your OpenAI API key and the model you want to fine-tune
-api_key = "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"
+api_key = ""
 model = "code-davinci-002" # Replace with the specific model ID for GPT-3.5
 
 # Your training data (input-output pairs)
